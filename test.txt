@@ -1,3 +1,2 @@
 feature 1 implemented
-feature 1 upgraded
 feature 2 implemented
