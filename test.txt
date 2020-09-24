@@ -1,2 +1,0 @@
-feature 1 implemented
-feature 2 implemented
