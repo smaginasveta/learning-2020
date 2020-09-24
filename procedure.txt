@@ -1,7 +1,6 @@
 procedure feature_1()
 {
 	something is implemented here
-	then I decided to improve this feature
 }
 
 
