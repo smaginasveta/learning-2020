@@ -3,3 +3,9 @@ procedure feature_1()
 	something is implemented here
 	then I decided to improve this feature
 }
+
+
+procedure feature_2()
+{
+	something is implemented here
+}
